@@ -12,5 +12,6 @@ person['age'] = 26;
 person['fav places'] = ['maldives', 'bali', 'pataya']
 
 const propName = 'profession';
+console.log(propName)
 person[propName] = 'devops'
 console.log(person)
